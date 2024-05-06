@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### Hi I'm Claudia
 
-Currently hired as Junior LAN & System Administrator, looking forward to progressing my career in the Software engineering field.  
+Currently hired as System Administrator - Onsite support Engineer. 
 
 **Full Stack Developer** student @[Code Institute](https://codeinstitute.net) specialization in Predictive Analysis.</br>
 I lost my head over Machine Learning but still committed to improve my JavaScript skills. 
